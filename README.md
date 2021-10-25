@@ -1,1 +1,1 @@
-# nix-star.github.io
+Próximamente en desarrollo
