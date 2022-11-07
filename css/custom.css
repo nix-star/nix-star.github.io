@@ -1,0 +1,9 @@
+.redondo {
+    border-radius: 100%;
+}
+
+.custom-link, .custom-link:hover {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+}
